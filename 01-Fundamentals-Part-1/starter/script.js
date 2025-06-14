@@ -15,3 +15,15 @@ let myFirstJob = "Intern_Administrator";
 let myCurrentJob = "Teacher"
 
 console.log(myFirstJob);*/
+
+let javascriptIsFun = true;
+console.log(javascriptIsFun);
+
+// console.log(typeof true);
+console.log(typeof javascriptIsFun);
+// console.log(typeof 23);
+// console.log(typeof "Fikiswa");
+
+// Dynamic typing
+javascriptIsFun = "YES!";
+console.log(typeof javascriptIsFun);
